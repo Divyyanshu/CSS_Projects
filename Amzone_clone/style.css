@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color:white;
+    display: flex;
+    align-items: center;
+}
+.nav-logo{
+    height: 50px;
+    width: 113px;
+}
+.logo{
+    background-image: url("../Amzone_clone/images/alogo1.png");
+    height: 50px;
+    width: 113px;
+    background-size: cover;
+}
+.border{
+    border: 1.2px solid transparent;
+}
+.border:hover{
+    border: 1.2px solid white;
+}
+.add-first{
+    font-size: 10px;
+    color: #CCCCCC;
+    padding: 5px;
+    margin-left: 1px;
+}
+.add-sec{
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left:6px;
+}
+.add-icon{
+    display: flex;
+}

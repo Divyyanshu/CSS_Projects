@@ -191,6 +191,9 @@ span {
     padding: 20px 0px 15px;
     margin-top:10px;
 }
+.box:hover{
+  border: 3px solid #e9d0aff9;;
+}
 .box-img{
     height: 330px;
     margin-top:15px;
@@ -206,3 +209,16 @@ span {
     font-weight: 500;
 }
 /* footer panel */
+footer{
+  margin-top: 15px;
+  background-color: #f1c387cc;
+}
+.panel-1{
+  height: 50px;
+  background-color: rgb(72,87,105);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  color: white;
+}
